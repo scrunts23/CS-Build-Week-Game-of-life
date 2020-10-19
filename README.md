@@ -4,7 +4,7 @@ Conway's Game of Life is a game invented by the British mathematician Conway aro
 
 Conway's Game of Life consists of very simple rules (see below) in which various shapes are produced based upon the four simple rules. The behaviors seem to be very complex and feels like acutally life. The emergence of complex behaviors based upon these rules of Conways's Game of Life exhibit emergence, which is one of the keys in the field of artificial life. 
 
-The interesting thing about Conway's Game of Life is that there can be objects within the life in the world of Conway's Game (so does that mean there is something living in my computer?). Some people in the world don't think so. Not all organisms are made of proteins that we know so the essence of life is self-replication which does not matter whether it is made of protein or software.
+The interesting thing about Conway's Game of Life is that there can be objects within the life in the world of Conway's Game (so does that mean there is something living in my computer?). Not all organisms are made of proteins that we know so the essence of life is self-replication which does not matter whether it is made of protein or software.
 
 Among those who studied the self-reproduction of living things in the virtual world of life games are John von Neumann (who invented the principle of personal computers) and Christopher Langton (one of the founders ofthe field of artificial life). Both of these indviduals have actually created a self-replicating loops and succeeded in reproducing the same phenomenon as living things.
 
